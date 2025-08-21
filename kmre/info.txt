@@ -1,8 +1,8 @@
 name=kmre
 description=Emulador de android desarrollado por el equipo de openkylin, portado por gxde a deepin linux 23 y deepin linux 25 de forma no oficial.
-slider1=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/slider1.png
-slider2=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/slider2.png
-slider3=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/slider3.png
+slider1=https://raw.githubusercontent.com/krafairus/scripts-files/blob/285b8132a1cbb67f821ba2db1e0a66c13b666616/kmre/slider1.png
+slider2=https://raw.githubusercontent.com/krafairus/scripts-files/blob/285b8132a1cbb67f821ba2db1e0a66c13b666616/kmre/slider2.png
+slider3=https://raw.githubusercontent.com/krafairus/scripts-files/blob/285b8132a1cbb67f821ba2db1e0a66c13b666616/kmre/slider3.png
 scriptversion=1.0.1
 scriptdeveloper=krafairus
-scriptfile=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/kmre.py
+scriptfile=https://raw.githubusercontent.com/krafairus/scripts-files/blob/285b8132a1cbb67f821ba2db1e0a66c13b666616/kmre/kmre.py
