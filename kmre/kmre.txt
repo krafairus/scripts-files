@@ -1,4 +1,0 @@
-name=kmre
-description=android emulator kmre
-version-app=1.0.1
-script-developer=krafairus
