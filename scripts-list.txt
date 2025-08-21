@@ -1,20 +1,21 @@
 appname=kmre
-icono=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
+icono=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
 ds=Emulador de android Kmre (kmre 3.0.3).
 scriptversion=0.1.0
-infofile=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
+infofile=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
 
 appname=kmre2
-icono=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
+icono=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
 ds=Emulador de android Kmre (kmre 3.0.3).
 scriptversion=0.1.0
-infofile=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
+infofile=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
 
 appname=kmre3
-icono=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
+icono=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/icono.png
 ds=Emulador de android Kmre (kmre 3.0.3).
 scriptversion=0.1.0
-infofile=https://github.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
+infofile=https://raw.githubusercontent.com/krafairus/scripts-files/blob/e8d8000687cef2c9230b1b5aab97e1e6fc93ac32/kmre/info.txt
+
 
 
 
