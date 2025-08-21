@@ -1,1 +1,18 @@
-test.py
+appname:kmre
+icono: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/icono.png
+ds: Emulador de android Kmre (kmre 3.0.3).
+scriptversion: 0.1.0
+infofile: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/info.txt
+
+appname:kmre2
+icono: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/icono.png
+ds: Emulador de android Kmre (kmre 3.0.3).
+scriptversion: 0.1.0
+infofile: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/info.txt
+
+appname:kmre3
+icono: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/icono.png
+ds: Emulador de android Kmre (kmre 3.0.3).
+scriptversion: 0.1.0
+infofile: https://raw.githubusercontent.com/krafairus/scripts-files/blob/main/kmre/info.txt
+
