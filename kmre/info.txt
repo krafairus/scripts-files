@@ -5,3 +5,4 @@ slider2=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/mai
 slider3=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/slider3.png
 scriptversion=1.0.1
 scriptdeveloper=krafairus
+scriptfile=https://raw.githubusercontent.com/krafairus/scripts-files/refs/heads/main/kmre.py
